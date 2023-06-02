@@ -1,0 +1,1 @@
+# jmm-geeksHubs-laravel-belongToMany-06-2023
